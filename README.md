@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./images/header.png" id="header"/>
-  </p>
+![header](https://github.com/LTurns/LTurns/blob/master/header.png)
 
 
 <p align="center">
