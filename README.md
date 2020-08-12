@@ -1,4 +1,6 @@
-# Lizzie Turney
+<p align="center">
+  <img src="./images/header.png" id="header"/>
+  </p>
 
 
 <p align="center">
